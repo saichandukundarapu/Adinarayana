@@ -2,10 +2,6 @@
 
 A Parking Reservation Web App, where user can book Car Parks / Parking Lots / Airport Parking at various places across the world.
 
-![pl_1](https://github.com/DivyamKakkar24/Parklane/assets/64471060/a1bb5143-d9a1-425b-a59f-927dd53ffcf7)
-#
-![pl_2](https://github.com/DivyamKakkar24/Parklane/assets/64471060/58cbc2e6-96d8-42f1-9b0b-0c2aad882781)
-
 ## Features
 * User Authentication (Sign up / Log in)
 * 18 places to choose from (airports, hotels etc.)
@@ -26,7 +22,6 @@ npm start
 ```
 
 ## License
-[MIT](https://github.com/DivyamKakkar24/Parklane/blob/94d8b13137b69db3c85fddeabccdea615428e33e/LICENSE)
 
 #
 >Made with 🤍
